@@ -1,4 +1,7 @@
 # Pratikum-7
+Tugas Pertemuan 12
+
+Tugas ini di suruh membuat 4 class dengan 3 relasi yang berbeda dan ini adalah hasilnya :
 
 Keterangan:
 
